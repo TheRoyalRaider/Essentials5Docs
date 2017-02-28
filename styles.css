@@ -5,3 +5,9 @@ hr{
   background-color: #F5F5F5;
   border-color: #F5F5F5;
 }
+a{
+  color: #0000FF;
+}
+a:visited{
+  color: #0000FF;
+}
