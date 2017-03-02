@@ -5,7 +5,7 @@ body {
 div.heading {
   border: solid #0000ff 2px;
   text-align: center;
-  background-color: #cecece;
+  background-color: #727272;
 }
 
 #essentials {
@@ -18,8 +18,8 @@ ul.navbar {
   list-style: none;
   padding-left: 0;
   padding-top: 6px;
-  padding-bottom: 5px;
-  border-bottom: 1px dashed #000;
+  padding-bottom: 1px;
+  border-bottom: 1px solid #000;
 }
 
 ul.navbar li {
@@ -52,4 +52,5 @@ ul.navbar a:hover {
 
 div.info {
   float: left;
+  margin-left: 10px;
 }
