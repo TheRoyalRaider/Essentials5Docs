@@ -8,11 +8,11 @@ div.heading {
   color: blue;
 }
 
-ul.navbar {
+ul.navbar li {
   float: left;
 }
 
-ul.navbar li {
+ul.navbar {
   display: inline;
 }
 
