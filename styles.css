@@ -31,6 +31,7 @@ ul.navbar li {
 ul.navbar a {
   border: 2px solid #000;
   border-bottom: none;
+  border-radius: 5px 5px 0px 0px;
   padding:5px 15px 5px 15px;
   margin-right: 5px;
   background-color: #646566;
@@ -48,9 +49,4 @@ ul.navbar a:hover {
   text-decoration: none;
   color: #000000;
   
-}
-
-div.info {
-  float: left;
-  margin-left: 10px;
 }
