@@ -1,6 +1,7 @@
 div.heading {
   border: solid silver 2px;
   text-align: center;
+  background-color: grey;
 }
 
 #essentials {
@@ -28,9 +29,9 @@ ul.navbar a {
   border-bottom: none;
   padding:5px 15px 5px 15px;
   margin-right: 5px;
-  background-color: #EAEAEA;
+  background-color: grey;
   text-decoration: none;
-  color: #333;
+  color: black;
   
 }
 
@@ -39,9 +40,9 @@ ul.navbar a:hover {
   border-bottom: none;
   padding:5px 15px 5px 15px;
   margin-right: 5px;
-  background-color: #66ccff;
+  background-color: white;
   text-decoration: none;
-  color: #9f9f9f;
+  color: black;
   
 }
 
