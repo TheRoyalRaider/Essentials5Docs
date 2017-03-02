@@ -12,7 +12,11 @@ div.nav {
   float: left;
 }
 
-ul.navbar {
+ul.navbar li {
+  display: inline;
+}
+
+ul.navbar a {
   border: 1px dashed #000;
   border-bottom: none;
   list-style-type: none;
