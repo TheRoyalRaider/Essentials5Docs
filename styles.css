@@ -1,13 +1,24 @@
-body{
-  font-family: 'Roboto', sans-serif;
+div.heading {
+  border: solid silver 2px;
+  text-align: center;
 }
-hr{
-  background-color: #F5F5F5;
-  border-color: #F5F5F5;
+
+#essentials {
+  font-size: 36;
+  color: blue;
 }
-a{
-  color: #0000FF;
+
+div.nav {
+  float: left;
 }
-a:visited{
-  color: #0000FF;
+
+ul.navbar {
+  list-style-type: none;
+  padding-left: 0;
+  margin-left: 0;
+  display: block;
+}
+
+div.info {
+  float: left;
 }
