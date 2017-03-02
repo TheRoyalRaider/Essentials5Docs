@@ -13,11 +13,13 @@ div.nav {
 }
 
 ul.navbar {
-  border: solid blue 2px;
+  border: 1px dashed #000;
+  border-bottom: none;
   list-style-type: none;
-  padding-left: 0;
-  margin-left: 0;
-  display: block;
+  padding:5px 15px 5px 15px;
+  background-color: #EAEAEA;
+  text-decoration: none;
+  color: #333;
 }
 
 div.info {
