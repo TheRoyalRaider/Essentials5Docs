@@ -1,12 +1,16 @@
+body {
+  background-color: #dfdfdf;
+}
+
 div.heading {
-  border: solid silver 2px;
+  border: solid #0000ff 2px;
   text-align: center;
-  background-color: grey;
+  background-color: #cecece;
 }
 
 #essentials {
   font-size: 36;
-  color: blue;
+  color: #0000ff;
 }
 
 ul.navbar {
@@ -25,24 +29,24 @@ ul.navbar li {
 }
 
 ul.navbar a {
-  border: 1px dashed #000;
+  border: 2px solid #000;
   border-bottom: none;
   padding:5px 15px 5px 15px;
   margin-right: 5px;
-  background-color: grey;
+  background-color: #646566;
   text-decoration: none;
-  color: white;
+  color: #ffffff;
   
 }
 
 ul.navbar a:hover {
-  border: 1px solid #000;
+  border: 2px solid #000;
   border-bottom: none;
   padding:5px 15px 5px 15px;
   margin-right: 5px;
-  background-color: silver;
+  background-color: #bfbfbf;
   text-decoration: none;
-  color: black;
+  color: #000000;
   
 }
 
