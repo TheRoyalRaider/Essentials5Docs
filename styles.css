@@ -31,7 +31,7 @@ ul.navbar a {
   margin-right: 5px;
   background-color: grey;
   text-decoration: none;
-  color: black;
+  color: white;
   
 }
 
@@ -40,7 +40,7 @@ ul.navbar a:hover {
   border-bottom: none;
   padding:5px 15px 5px 15px;
   margin-right: 5px;
-  background-color: white;
+  background-color: silver;
   text-decoration: none;
   color: black;
   
