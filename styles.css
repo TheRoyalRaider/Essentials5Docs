@@ -8,19 +8,26 @@ div.heading {
   color: blue;
 }
 
-ul.navbar li {
-  float: left;
+ul.nav {
+  margin-left: 0;
+  list-style: none;
+  padding-left: 0;
+  padding-top: 6px;
+  padding-bottom: 5px;
+  border-bottom: 1px dashed #000;
 }
 
-ul.navbar {
+ul.navbar li {
+  list-style-type: none;
   display: inline;
+  
 }
 
 ul.navbar a {
   border: 1px dashed #000;
   border-bottom: none;
-  list-style-type: none;
   padding:5px 15px 5px 15px;
+  margin-right: 5px;
   background-color: #EAEAEA;
   text-decoration: none;
   color: #333;
