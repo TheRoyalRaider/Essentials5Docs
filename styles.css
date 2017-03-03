@@ -45,7 +45,19 @@ ul {
   text-decoration: none;
   color: #000000;
 }
- 
+
+#commandlinks {
+  color: #ffffff;
+}
+
+.info p {
+  font-size: 20;
+}
+
+.info a {
+  color:blue;
+}
+
  li {
   float: left;
  }
