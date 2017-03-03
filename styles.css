@@ -11,11 +11,10 @@ div.heading {
 
 div.info {
   background-color: #dfdfdf;
-  height: 500px;
   border-radius: 0px 0px 10px 10px;
   margin-top: 0px;
   position: absolute;
-  width: 100%;
+  width: 500px;
 }
 
 #essentials {
