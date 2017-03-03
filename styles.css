@@ -28,7 +28,17 @@ div.heading {
   color: #ff0000;
 }
 
-
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+ }
+ 
+ li {
+  float: left;
+ }
 
 li a, .dropbtn {
     display: inline-block;
