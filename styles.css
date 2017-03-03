@@ -1,5 +1,5 @@
 body {
-  background-color: #dfdfdf;
+  background-color: #ffffff;
   font-family: 'Roboto', sans-serif;
 }
 
@@ -7,6 +7,10 @@ div.heading {
   border: solid #0000ff 2px;
   text-align: center;
   background-color: #727272;
+}
+
+div.info {
+  background-color: #dfdfdf;
 }
 
 #essentials {
