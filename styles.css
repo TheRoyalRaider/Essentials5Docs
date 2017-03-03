@@ -35,6 +35,16 @@ ul {
   overflow: hidden;
   background-color: #333;
  }
+
+#currentpage {
+  border: 2px solid #000;
+  border-bottom: none;
+  padding: 5px 15px 5px 15px;
+  margin-right: 5px;
+  background-color: #dfdfdf;
+  text-decoration: none;
+  color: #000000;
+}
  
  li {
   float: left;
