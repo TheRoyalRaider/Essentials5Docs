@@ -7,6 +7,8 @@ td {
   border-left: 2px solid #000000;
   border-right: 2px solid #000000;
   width: 30px;
+  padding: 5px;
+  float:left;
 }
 
 div.heading {
