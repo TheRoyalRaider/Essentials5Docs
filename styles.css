@@ -18,37 +18,17 @@ tr {
 }
 
 div.heading {
-  border: solid #0000ff 2px;
+  border: solid #ff0000 4px;
   text-align: center;
   background-color: #727272;
 }
 
 #essentials {
   font-size: 36;
-  color: #0000ff;
+  color: #ff0000;
 }
 
-#currentpage {
-  border: 2px solid #000;
-  border-bottom: none;
-  padding: 5px 15px 5px 15px;
-  margin-right: 5px;
-  background-color: #dfdfdf;
-  text-decoration: none;
-  color: #000000;
-}
 
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333;
-}
-
-li {
-    float: left;
-}
 
 li a, .dropbtn {
     display: inline-block;
