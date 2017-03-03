@@ -38,6 +38,7 @@ ul.navbar {
   padding-top: 0px;
   padding-bottom: 1px;
   border-bottom: 1px solid #000;
+  float: left;
 }
 
 ul.navbar li {
@@ -61,7 +62,7 @@ ul.navbar a:hover {
   border-bottom: none;
   padding:5px 15px 5px 15px;
   margin-right: 5px;
-  background-color: #bfbfbf;
+  background-color: #dfdfdf;
   text-decoration: none;
   color: #000000;
 }
