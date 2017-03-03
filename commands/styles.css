@@ -1,5 +1,5 @@
 body {
-  background-color: #dfdfdf;
+  background-color: #ffffff;
   font-family: 'Roboto', sans-serif;
 }
 
@@ -9,16 +9,36 @@ div.heading {
   background-color: #727272;
 }
 
+div.info {
+  background-color: #dfdfdf;
+  height: 500px;
+  border-radius: 0px 0px 10px 10px;
+  margin-top: 0px;
+  position: absolute;
+  width: 100%;
+}
+
 #essentials {
   font-size: 36;
   color: #0000ff;
 }
 
+#currentpage {
+  border: 2px solid #000;
+  border-bottom: none;
+  padding: 5px 15px 5px 15px;
+  margin-right: 5px;
+  background-color: #dfdfdf;
+  text-decoration: none;
+  color: #000000;
+}
+
 ul.navbar {
   margin-left: 0;
+  margin-bottom: 0;
   list-style: none;
   padding-left: 0;
-  padding-top: 6px;
+  padding-top: 0px;
   padding-bottom: 1px;
   border-bottom: 1px solid #000;
 }
@@ -26,19 +46,18 @@ ul.navbar {
 ul.navbar li {
   list-style-type: none;
   display: inline;
-  
 }
 
 ul.navbar a {
   border: 2px solid #000;
   border-bottom: none;
   border-radius: 5px 5px 0px 0px;
-  padding:5px 15px 5px 15px;
+  padding: 5px 15px 2px 15px;
   margin-right: 5px;
+  margin-bottom: 0px;
   background-color: #646566;
   text-decoration: none;
   color: #ffffff;
-  
 }
 
 ul.navbar a:hover {
@@ -46,8 +65,7 @@ ul.navbar a:hover {
   border-bottom: none;
   padding:5px 15px 5px 15px;
   margin-right: 5px;
-  background-color: #bfbfbf;
+  background-color: #dfdfdf;
   text-decoration: none;
   color: #000000;
-  
 }
