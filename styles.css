@@ -3,6 +3,11 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
+tr {
+  border-left: 2px solid #000000;
+  border-right: 2px solid #000000;
+}
+
 div.heading {
   border: solid #0000ff 2px;
   text-align: center;
@@ -31,11 +36,6 @@ div.info {
   background-color: #dfdfdf;
   text-decoration: none;
   color: #000000;
-}
-
-#bordered {
-  border-left: 2px solid #000000;
-  border-right: 2px solid #000000;
 }
 
 ul {
