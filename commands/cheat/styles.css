@@ -14,6 +14,12 @@ div.heading {
   color: #ff0000;
 }
 
+td, th {
+  border: 1px solid #000000;
+  text-align: left;
+  padding: 3px;
+}
+
 ul {
   list-style-type: none;
   margin: 0;
@@ -39,6 +45,7 @@ ul {
 .info p {
   font-size: 20;
   margin-top: 25px;
+  margin-bottom: 25px;
 }
 
 .info a {
