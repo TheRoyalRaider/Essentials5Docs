@@ -1,1 +1,92 @@
+body {
+  background-color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+}
 
+div.heading {
+  border: solid #ff0000 4px;
+  text-align: center;
+  background-color: #727272;
+}
+
+#title {
+  font-size: 36;
+  color: #ff0000;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+ }
+
+#currentpage {
+  border: 2px solid #000;
+  border-bottom: none;
+  padding: 5px 15px 5px 15px;
+  margin-right: 5px;
+  background-color: #dfdfdf;
+  text-decoration: none;
+  color: #000000;
+}
+
+#commandlinks {
+  color: #ffffff;
+}
+
+.info p {
+  font-size: 20;
+  margin-top: 25px;
+}
+
+.info a {
+  color:blue;
+}
+
+ li {
+  float: left;
+ }
+
+li a, .dropbtn {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover, .dropdown:hover .dropbtn, #currentpg {
+    background-color: red;
+}
+
+li.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    width: auto;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {
+  background-color: #cc3300;
+  color: white;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
